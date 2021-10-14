@@ -1,0 +1,5 @@
+Username,ID,Access Hash,Tên,Group,Group id,Hoạt Động
+,2041385410,-8523003448728743038,ahyhy,Test,1689340579,"UserStatusOnline(expires=datetime.datetime(2021, 10, 14, 6, 4, 35, tzinfo=datetime.timezone.utc))"
+hoangks5,1811155972,747505590764348718,Hoàng ok,Test,1689340579,"UserStatusOffline(was_online=datetime.datetime(2021, 10, 14, 3, 6, 1, tzinfo=datetime.timezone.utc))"
+hoangks1_bot,2016357762,6042425232310227904,Nguyen Duy,Test,1689340579,
+,2059318485,5645135184506801834,jame,Test,1689340579,"UserStatusOffline(was_online=datetime.datetime(2021, 10, 13, 18, 3, 36, tzinfo=datetime.timezone.utc))"
